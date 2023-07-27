@@ -14,7 +14,7 @@ Painel criado para fornecer uma visão rápida e clara do desempenho das vendas,
 - **Porcentagem de lucro** para cada **categoria de produtos**
 - **Percentual de vendas** por **canal** de distribuição
 - **Percentual de vendas** por **categoria** de produtos
-- **Evolução de vendas** por mês/ano através do **gráfico de faixas** que permite observar não só os valores de cada mês, mas também a variação percentual
+- **Evolução de vendas** por mês/ano de cada categoria através do **gráfico de faixas** que permite observar não só os valores de cada mês, mas também a variação percentual
 
 ## Filtros
 - Filtrar por categoria
